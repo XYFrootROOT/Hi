@@ -1,0 +1,6 @@
+{
+  "name": "浏览器",
+  "description": "功能强大的极速移动浏览器 (Fast & feature-rich Android browser with tabs, bookmarks, speed dial, ad blocker, and history)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
